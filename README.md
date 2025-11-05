@@ -159,8 +159,8 @@ cd ai-business-name-generator
 ```
 
 2. Configure a API Key
-   · Acesse OpenAI API
-   · Crie uma nova API Key
+   · Acesse OpenAI API<br>
+   · Crie uma nova API Key<br>
    · No arquivo sendRequest.php, substitua:
      ```php
      $apiKey = 'sk-sua-chave-api-aqui';
@@ -185,7 +185,7 @@ Como Utilizar
 
 Entrada:
 
-· Setor: Tecnologia
+· Setor: Tecnologia<br>
 · Conceito: Inovação e Simplicidade
 
 Saída (exemplo):
@@ -210,8 +210,8 @@ Configurações de Modelo
 
 O projeto utiliza por padrão:
 
-· Modelo: gpt-3.5-turbo
-· Temperature: 0.8 (criatividade)
+· Modelo: gpt-3.5-turbo<br>
+· Temperature: 0.8 (criatividade)<br>
 · Max Tokens: 500 (tamanho da resposta)
 
 🔧 Personalização
@@ -238,8 +238,8 @@ Ajuste os parâmetros da chamada da API:
 
 Opções de Hospedagem
 
-· Shared Hosting: Upload via FTP (certifique-se do suporte a PHP 8+)
-· VPS/Cloud: DigitalOcean, AWS, Google Cloud
+· Shared Hosting: Upload via FTP (certifique-se do suporte a PHP 8+)<br>
+· VPS/Cloud: DigitalOcean, AWS, Google Cloud<br>
 · Platform as a Service: Heroku, Railway, Vercel (com buildpack PHP)
 
 Variáveis de Ambiente (Produção)
@@ -256,12 +256,12 @@ Erros Comuns
 
 "API key não configurada"
 
-· Verifique se a API Key foi inserida corretamente
+· Verifique se a API Key foi inserida corretamente<br>
 · Confirme se a chave tem créditos disponíveis
 
 "Erro de CORS"
 
-· Certifique-se de que os headers estão configurados no PHP
+· Certifique-se de que os headers estão configurados no PHP<br>
 · Verifique se está acessando via servidor web
 
 "Composer não encontrado"
@@ -272,19 +272,19 @@ Erros Comuns
 
 Ideias para expandir o projeto:
 
-· Adicionar banco de dados para histórico
-· Sistema de favoritos
-· Geração de logos com DALL·E
-· Análise de domínios disponíveis
-· Export para PDF das ideias
+· Adicionar banco de dados para histórico<br>
+· Sistema de favoritos<br>
+· Geração de logos com DALL·E<br>
+· Análise de domínios disponíveis<br>
+· Export para PDF das ideias<br>
 · Multi-idioma
 
 ---
 
 ## 🙏 Agradecimentos
 
-· OpenAI pela incrível API
-· Bootstrap pelo framework CSS
+· OpenAI pela incrível API<br>
+· Bootstrap pelo framework CSS<br>
 · Comunidade PHP e JavaScript
 
 ---
