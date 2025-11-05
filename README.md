@@ -158,7 +158,7 @@ git clone https://github.com/ninomiquelino/ai-business-name-generator.git
 cd ai-business-name-generator
 ```
 
-2. Configure a API Key
+2. Configure a API Key<br>
    · Acesse OpenAI API<br>
    · Crie uma nova API Key<br>
    · No arquivo sendRequest.php, substitua:
